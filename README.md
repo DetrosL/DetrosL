@@ -11,7 +11,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" /> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img align="right" src="https://im4.ezgif.com/tmp/ezgif-4-646a7f7a9f.gif" width="240">
+  <img align="right" src="https://im4.ezgif.com/tmp/ezgif-4-8c0c0e6158.gif" width="240">
 </div>
 
 ##
