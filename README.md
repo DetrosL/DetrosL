@@ -1,14 +1,27 @@
 # Seja Bem Vindo(a) ao meu GitHub
 
-## Aprendizado
+![MEgami's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegamiAy&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegamiAy&layout=compact&show=icons=true&theme=transparent)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="60" /> <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" width="60" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="60"/> 
+##
 
-### Ferramentas
+<div style="display: inline_block">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" /> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" /> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" /> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+  <img align="right" src="" width="">
+</div>
 
-<img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="60" margin-right="10"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="70" /> 
+##
 
-## Contato
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" /> 
+</div>
+
+### Meios de contato
 
 <div>
   <a href="https://www.linkedin.com/in/laiz-detros-93b95b236/"> <img src="https://img.shields.io/badge/linkedin-2E8FF0?style=for-the-badge&logo=linkedin&logoColor=fff"/> </a>
