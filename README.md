@@ -32,4 +32,4 @@
 
 ##
 
-![snake animation](https://github.com/MegamiAy/MegamiAy/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/MegamiAy/MegamiAy/blob/output/github-contribution-grid-snake.svg)
