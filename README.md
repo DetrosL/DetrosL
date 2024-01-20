@@ -29,7 +29,3 @@
   <a href="mailto: laizbdetros@gmail.com"> <img src="https://img.shields.io/badge/Email-DC4944?style=for-the-badge&logo=gmail&logoColor=fff"/> </a>
   <a href="https://megamiay.github.io"> <img src="https://img.shields.io/badge/Meu%20Site-11641E?style=for-the-badge"/> </a>
 </div>
-
-##
-
-![Snake animation](https://github.com/MegamiAy/MegamiAy/blob/output/github-contribution-grid-snake.svg)
