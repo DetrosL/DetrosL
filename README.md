@@ -27,5 +27,9 @@
   <a href="https://www.linkedin.com/in/laiz-detros-93b95b236/"> <img src="https://img.shields.io/badge/linkedin-2E8FF0?style=for-the-badge&logo=linkedin&logoColor=fff"/> </a>
   <a href="https://www.instagram.com/uatafocuros/"> <img src="https://img.shields.io/badge/Instagram-D82BF0?style=for-the-badge&logo=instagram&logoColor=fff"/> </a>   
   <a href="mailto: laizbdetros@gmail.com"> <img src="https://img.shields.io/badge/Email-DC4944?style=for-the-badge&logo=gmail&logoColor=fff"/> </a>
+  <a href="https://megamiay.github.io"> <img src="https://img.shields.io/badge/Meu%20Site-11641E?style=for-the-badge"/> </a>
 </div>
 
+##
+
+![snake animation](https://github.com/MegamiAy/MegamiAy/blob/output/github-contribution-grid-snake2.svg)
