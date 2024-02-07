@@ -52,6 +52,6 @@
 
 ##
 
-### To see more about me:
+[comment]: <> (### To see more about me:)
 
-<a href="https://megamiay.github.io"> <img src="https://img.shields.io/badge/My%20WebSite-11641E?style=for-the-badge"/> </a>
+[comment]: <> (<a href="https://megamiay.github.io"> <img src="https://img.shields.io/badge/My%20WebSite-11641E?style=for-the-badge"/> </a>)
