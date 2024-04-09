@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile 
 
-![MEgami's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegamiAy&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
+![Megami's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegamiAy&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegamiAy&layout=compact&show=icons=true&theme=transparent)
 
 ##
@@ -13,8 +13,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" /> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"/> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
+<!--   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"/>  -->
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
   
   <img align="right" src="https://im4.ezgif.com/tmp/ezgif-4-8c0c0e6158.gif" width="240">
 </div>
@@ -37,7 +38,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </div>
 
 ##
