@@ -2,6 +2,7 @@
 
 ![Megami's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegamiAy&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegamiAy&layout=compact&show=icons=true&theme=transparent)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">
 
 ##
 
