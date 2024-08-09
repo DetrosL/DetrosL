@@ -18,7 +18,6 @@
 <!--   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"/>  -->
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="50" alt="C ANSI" title="C ANSI"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" alt="Bash" title="Bash"/>
 
 
   
@@ -36,6 +35,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma" title="Figma"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="50" alt="GIMP" title="GIMP"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB" title="MariaDB"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" alt="Bash" title="Bash"/>
           
           
   <!--  <img align="center"  width="50" alt="" title=""/> -->
