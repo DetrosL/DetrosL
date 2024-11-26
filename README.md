@@ -34,9 +34,15 @@
 
 ### 📞 Contacts
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-2E8FF0?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laiz-detros-93b95b236/)
-[![Instagram](https://img.shields.io/badge/Instagram-D82BF0?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/laizdetros/)
-[![Email](https://img.shields.io/badge/Email-DC4944?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:laizbdetros@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laiz-detros-93b95b236/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/laizdetros/)
+[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:laizbdetros@gmail.com)
+
+### Languages
+
+[![Português Nativo](https://img.shields.io/badge/Português-Nativo-brightgreen)](https://github.com/)
+[![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)](https://github.com/)
+[![Italiano Básico](https://img.shields.io/badge/Italiano-Básico-yellow)](https://github.com/)
 
 
 [comment]: <> (## 🌐 Explore More) 
