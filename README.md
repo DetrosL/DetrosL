@@ -40,12 +40,6 @@
 
 ### Languages
 
-[![Português Nativo](https://img.shields.io/badge/Português-Nativo-brightgreen)]
-[![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)]
-[![Italiano Básico](https://img.shields.io/badge/Italiano-Básico-yellow)]
-
-[comment]: <> (## 🌐 Explore More (https://github.com) 
-
-[comment]: <> (### To see more about me:)
-
-[comment]: <> (<a href="https://megamiay.github.io"> <img src="https://img.shields.io/badge/My%20WebSite-11641E?style=for-the-badge"/> </a>)
+![Português Native](https://img.shields.io/badge/Português-Nativo-brightgreen)
+![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)
+![Italiano Básico](https://img.shields.io/badge/Italiano-Basic-yellow)
