@@ -40,12 +40,11 @@
 
 ### Languages
 
-[![Português Nativo](https://img.shields.io/badge/Português-Nativo-brightgreen)](https://github.com/)
-[![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)](https://github.com/)
-[![Italiano Básico](https://img.shields.io/badge/Italiano-Básico-yellow)](https://github.com/)
+[![Português Nativo](https://img.shields.io/badge/Português-Nativo-brightgreen)]
+[![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)]
+[![Italiano Básico](https://img.shields.io/badge/Italiano-Básico-yellow)]
 
-
-[comment]: <> (## 🌐 Explore More) 
+[comment]: <> (## 🌐 Explore More (https://github.com) 
 
 [comment]: <> (### To see more about me:)
 
