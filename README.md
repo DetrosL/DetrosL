@@ -40,6 +40,6 @@
 
 ### Languages
 
-![Português Native](https://img.shields.io/badge/Português-Nativo-brightgreen)
-![Inglês Intermediário](https://img.shields.io/badge/Inglês-Intermediário-blue)
-![Italiano Básico](https://img.shields.io/badge/Italiano-Basic-yellow)
+![Português Native](https://img.shields.io/badge/Portuguese-Native-brightgreen)
+![Inglês Intermediário](https://img.shields.io/badge/English-intermediary-blue)
+![Italiano Básico](https://img.shields.io/badge/Italian-Basic-yellow)
