@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile 
 
-![Megami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MegamiAy&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MegamiAy&layout=compact&show=icons=true&theme=transparent)
+![Megami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DetrosL&show_icons=true&show=prs_merged_percentage&hide=issues,prs&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetrosL&layout=compact&show=icons=true&theme=transparent)
 <!--<img src="https://tryhackme-badges.s3.amazonaws.com/Megami.Ay.png" alt="TryHackMe">-->
 
 ##
@@ -21,7 +21,12 @@
 ##
 
 ### ⚙️ Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-2E8B57?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2578FF?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-EA4335?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white) 
+![Yarn](https://img.shields.io/badge/Yarn-2578FF?style=for-the-badge&logo=yarn&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-EA4335?style=for-the-badge&logo=npm&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2578FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ##
 
